@@ -19,6 +19,7 @@ Founder of [Digital Talisman](https://digitaltalisman.com), where I build softwa
 
 #### Recent work
 
+- **[Urbanity](https://urbanity.ug)**: premium sneaker and streetwear e-commerce, Next.js, Sanity CMS
 - **[Ali Jeffer Collections](https://alijeffercollections.com)**: live e-commerce store, Next.js, Supabase, Sanity CMS
 - **[Prognoria](https://github.com/moswek/prognoria)**: stock market prediction dashboard, React
 
