@@ -2,7 +2,7 @@
 
 Full-stack developer based in Kampala, Uganda. I build and ship web applications end to end, from database design through deployment, for clients across East Africa and beyond.
 
-Founder of [Digital Talisman](https://digitaltalisman.com), where I build software and systems that solve real business problems.
+Founder of [Digital Talisman Africa](https://digitaltalisman.com), where I build software and systems that solve real business problems.
 
 #### Stack I work in
 
